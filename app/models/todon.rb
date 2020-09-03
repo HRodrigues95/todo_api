@@ -1,0 +1,2 @@
+class Todon < ApplicationRecord
+end
